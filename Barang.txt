@@ -1,0 +1,9 @@
+ID,Nama,Kategori,Stok
+A001,Keyboard,Peralatan,15
+B001,Laptop A,Elektronik,11
+B002,Laptop B,Elektronik,12
+B003,Laptop C,Elektronik,19
+B004,Laptop D,Elektronik,21
+C001,Kipas Angin,Elektronik,15
+P001,Piring,Alat Makan,8
+Z002,Laptop Irsyat,Elektronik,9

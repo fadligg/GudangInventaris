@@ -1,0 +1,6 @@
+Root
+  Elektronik
+  Peralatan
+  Alat Makan
+  Otomotif
+  Alat Mandi
